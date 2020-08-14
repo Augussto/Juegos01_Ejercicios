@@ -1,0 +1,13 @@
+C:\Users\Augusto\source\repos\Juego01b\Juego01b\bin\Debug\netcoreapp3.1\Juego01b.exe
+C:\Users\Augusto\source\repos\Juego01b\Juego01b\bin\Debug\netcoreapp3.1\Juego01b.deps.json
+C:\Users\Augusto\source\repos\Juego01b\Juego01b\bin\Debug\netcoreapp3.1\Juego01b.runtimeconfig.json
+C:\Users\Augusto\source\repos\Juego01b\Juego01b\bin\Debug\netcoreapp3.1\Juego01b.runtimeconfig.dev.json
+C:\Users\Augusto\source\repos\Juego01b\Juego01b\bin\Debug\netcoreapp3.1\Juego01b.dll
+C:\Users\Augusto\source\repos\Juego01b\Juego01b\bin\Debug\netcoreapp3.1\Juego01b.pdb
+C:\Users\Augusto\source\repos\Juego01b\Juego01b\obj\Debug\netcoreapp3.1\Juego01b.csprojAssemblyReference.cache
+C:\Users\Augusto\source\repos\Juego01b\Juego01b\obj\Debug\netcoreapp3.1\Juego01b.AssemblyInfoInputs.cache
+C:\Users\Augusto\source\repos\Juego01b\Juego01b\obj\Debug\netcoreapp3.1\Juego01b.AssemblyInfo.cs
+C:\Users\Augusto\source\repos\Juego01b\Juego01b\obj\Debug\netcoreapp3.1\Juego01b.csproj.CoreCompileInputs.cache
+C:\Users\Augusto\source\repos\Juego01b\Juego01b\obj\Debug\netcoreapp3.1\Juego01b.dll
+C:\Users\Augusto\source\repos\Juego01b\Juego01b\obj\Debug\netcoreapp3.1\Juego01b.pdb
+C:\Users\Augusto\source\repos\Juego01b\Juego01b\obj\Debug\netcoreapp3.1\Juego01b.genruntimeconfig.cache
